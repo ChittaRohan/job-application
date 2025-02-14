@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Application - Google</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #1E3A8A; /* Deep Blue Background */
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: white;
+            font-size: 32px;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        .container {
+            width: 65%;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+            transition: 0.3s;
+        }
+
+        .container:hover {
+            transform: scale(1.02);
+        }
+
+        .letter {
+            line-height: 1.7;
+            font-size: 17px;
+            color: #333;
+        }
+
+        .letter p {
+            margin-bottom: 12px;
+        }
+
+        .highlight {
+            background: #f9e79f;
+            padding: 6px;
+            border-radius: 6px;
+            font-weight: bold;
+            color: #d35400;
+        }
+
+        .letter b {
+            text-decoration: underline;
+            color: #2c3e50;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+        }
+
+        th {
+            background: #2980b9;
+            color: white;
+            font-size: 18px;
+        }
+
+        tr:nth-child(even) {
+            background: #f2f2f2;
+        }
+
+        tr:hover {
+            background: #d6eaf8;
+            transition: 0.3s;
+        }
+
+        .signature {
+            text-align: left;
+            font-style: italic;
+            font-size: 17px;
+            margin-top: 25px;
+            color: #2c3e50;
+        }
+
+        .footer {
+            text-align: center;
+            font-size: 14px;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Job Application - Google</h1>
+
+    <div class="container">
+        <div class="letter">
+            <p><b>From:</b> <br> <b>Rohan</b> <br> AI & Data Science Student, <b>Amrita University</b> <br> Email: rohan@email.com <br> Phone: 9876543210</p>
+
+            <p><b>To:</b> <br> The Hiring Manager <br> <b>Google</b> <br> Mountain View, California</p>
+
+            <p><b>Subject:</b> Application for <i>Software Engineer Position</i></p>
+
+            <p>Dear Sir/Madam,</p>
+
+            <p>I am writing to apply for the <b>Software Engineer</b> position at <b>Google</b>. I have completed my <b>B.Tech in Artificial Intelligence & Data Science</b> from <b>Amrita University</b> and developed strong technical and analytical skills.</p>
+
+            <p class="highlight">My Key Skills:</p>
+            <ul class="highlight">
+                <li>Machine Learning & Data Analysis</li>
+                <li>Programming in Python, Java</li>
+                <li>Project Work in AI Applications</li>
+            </ul>
+
+            <p><b>Academic Performance:</b></p>
+
+            <table>
+                <tr>
+                    <th>Degree</th>
+                    <th>Institution</th>
+                    <th>Year</th>
+                    <th>CGPA</th>
+                </tr>
+                <tr>
+                    <td>B.Tech in AI & DS</td>
+                    <td>Amrita University</td>
+                    <td>2025</td>
+                    <td>8.5</td>
+                </tr>
+                <tr>
+                    <td>12th Grade</td>
+                    <td>Resonance</td>
+                    <td>2021</td>
+                    <td>9.34</td>
+                </tr>
+                <tr>
+                    <td>10th Grade</td>
+                    <td>WPS</td>
+                    <td>2019</td>
+                    <td>10.0</td>
+                </tr>
+            </table>
+
+            <p>I am excited about this opportunity and would love to contribute to Google. I have attached my resume for your reference.</p>
+
+            <p>Thank you for your time and consideration.</p>
+
+            <p class="signature">Sincerely,<br>Rohan</p>
+        </div>
+    </div>
+
+    <p class="footer">This is a vibrant job application letter designed with HTML & CSS. 🚀</p>
+
+</body>
+</html>
+  
