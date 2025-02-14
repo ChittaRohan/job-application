@@ -120,6 +120,8 @@
 
             <p>I am writing to apply for the <b>Software Engineer</b> position at <b>Google</b>. I have completed my <b>B.Tech in Artificial Intelligence & Data Science</b> from <b>Amrita University</b> and developed strong technical and analytical skills.</p>
 
+            <p>Google's mission to organize the world's information and make it universally accessible resonates with my passion for AI-driven solutions. I am eager to leverage my expertise in machine learning and data science to contribute to cutting-edge innovations at Google.</p>
+
             <p class="highlight">My Key Skills:</p>
             <ul class="highlight">
                 <li>Machine Learning & Data Analysis</li>
@@ -139,22 +141,24 @@
                 <tr>
                     <td>B.Tech in AI & DS</td>
                     <td>Amrita University</td>
-                    <td>2025</td>
+                    <td>2027</td>
                     <td>8.5</td>
                 </tr>
                 <tr>
                     <td>12th Grade</td>
                     <td>Resonance</td>
-                    <td>2021</td>
+                    <td>2023</td>
                     <td>9.34</td>
                 </tr>
                 <tr>
                     <td>10th Grade</td>
                     <td>WPS</td>
-                    <td>2019</td>
+                    <td>2021</td>
                     <td>10.0</td>
                 </tr>
             </table>
+
+            <p>My ability to develop scalable algorithms and work in high-performance environments makes me confident that I can contribute effectively at Google. I look forward to the possibility of bringing my skills to your esteemed company.</p>
 
             <p>I am excited about this opportunity and would love to contribute to Google. I have attached my resume for your reference.</p>
 
@@ -168,4 +172,3 @@
 
 </body>
 </html>
-  
